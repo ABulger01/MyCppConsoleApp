@@ -2,11 +2,9 @@
 using namespace std;
 int main()
 {
-char first, middle, last;
-first = 'A';
-middle = 'N';
-last = 'B';
-cout << first << middle << last;
+int age = 23;
+double weight = 145;
+cout << " my age is” << age << “ and my weight is " " << weight << "
+endl;
 return 0;
 }
-
